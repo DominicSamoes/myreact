@@ -12,6 +12,8 @@
 
 ### [Table](react-tutorial)
 
+### [Submitting Form Data](react-tutorial-form-data)
+
 ---
 
 ### Author
