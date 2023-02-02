@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DominicSamoes/myreact/tree/main/react-tutorial-form-data/static/css/main.b10ce008.css",
+    "main.js": "/DominicSamoes/myreact/tree/main/react-tutorial-form-data/static/js/main.933a2640.js",
+    "index.html": "/DominicSamoes/myreact/tree/main/react-tutorial-form-data/index.html",
+    "main.b10ce008.css.map": "/DominicSamoes/myreact/tree/main/react-tutorial-form-data/static/css/main.b10ce008.css.map",
+    "main.933a2640.js.map": "/DominicSamoes/myreact/tree/main/react-tutorial-form-data/static/js/main.933a2640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10ce008.css",
+    "static/js/main.933a2640.js"
+  ]
+}
