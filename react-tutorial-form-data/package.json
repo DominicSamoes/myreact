@@ -1,7 +1,7 @@
 {
   "name": "react-tutorial",
   "version": "0.1.0",
-  "homepage": "https://DominicSamoes.github.io/react-tutorial-form-data",
+  "homepage": "https://DominicSamoes.github.io/myreact/react-tutorial-form-data",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
