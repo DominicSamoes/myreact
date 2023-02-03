@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/DominicSamoes.io/react-tutorial-form-data/static/css/main.b10ce008.css",
-    "main.js": "/DominicSamoes.io/react-tutorial-form-data/static/js/main.933a2640.js",
-    "index.html": "/DominicSamoes.io/react-tutorial-form-data/index.html",
-    "main.b10ce008.css.map": "/DominicSamoes.io/react-tutorial-form-data/static/css/main.b10ce008.css.map",
-    "main.933a2640.js.map": "/DominicSamoes.io/react-tutorial-form-data/static/js/main.933a2640.js.map"
+    "main.css": "/react-tutorial-form-data/static/css/main.b10ce008.css",
+    "main.js": "/react-tutorial-form-data/static/js/main.933a2640.js",
+    "index.html": "/react-tutorial-form-data/index.html",
+    "main.b10ce008.css.map": "/react-tutorial-form-data/static/css/main.b10ce008.css.map",
+    "main.933a2640.js.map": "/react-tutorial-form-data/static/js/main.933a2640.js.map"
   },
   "entrypoints": [
     "static/css/main.b10ce008.css",
